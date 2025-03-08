@@ -1,9 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Soler\\Documents\\Nova pasta\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\soler\\documents\\nova pasta\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\user\\documents\\github\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|solutionrelative:gerenciamentodeestoque\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\user\\documents\\github\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|solutionrelative:gerenciamentodeestoque\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\user\\documents\\github\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|solutionrelative:gerenciamentodeestoque\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\user\\documents\\github\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|solutionrelative:gerenciamentodeestoque\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\user\\documents\\github\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|solutionrelative:gerenciamentodeestoque\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,11 +38,63 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDeEstoque\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Models\\Produto.cs",
+              "RelativeToolTip": "GerenciamentoDeEstoque\\Models\\Produto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:21:12.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDeEstoque\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Models\\Usuario.cs",
+              "RelativeToolTip": "GerenciamentoDeEstoque\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:20:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDeEstoque\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Models\\Cliente.cs",
+              "RelativeToolTip": "GerenciamentoDeEstoque\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:20:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDeEstoque\\Database\\Database.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Database\\Database.cs",
+              "RelativeToolTip": "GerenciamentoDeEstoque\\Database\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:19:31.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Soler\\Documents\\Nova pasta\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Login.cs",
               "RelativeDocumentMoniker": "GerenciamentoDeEstoque\\Login.cs",
-              "ToolTip": "C:\\Users\\Soler\\Documents\\Nova pasta\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Login.cs [Design]",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Login.cs [Design]",
               "RelativeToolTip": "GerenciamentoDeEstoque\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T02:37:11.009Z",
