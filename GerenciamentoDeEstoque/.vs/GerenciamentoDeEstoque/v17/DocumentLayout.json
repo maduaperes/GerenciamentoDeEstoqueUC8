@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Soler\\Documents\\Nova pasta\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\soler\\documents\\nova pasta\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|solutionrelative:gerenciamentodeestoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|c:\\users\\user\\documents\\github\\gerenciamentodeestoque\\gerenciamentodeestoque\\gerenciamentodeestoque\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E9E761-79C6-4763-A57B-54B32006EEE0}|GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj|solutionrelative:gerenciamentodeestoque\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Soler\\Documents\\Nova pasta\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Form1.cs",
-              "RelativeDocumentMoniker": "GerenciamentoDeEstoque\\Form1.cs",
-              "ToolTip": "C:\\Users\\Soler\\Documents\\Nova pasta\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Form1.cs [Design]",
-              "RelativeToolTip": "GerenciamentoDeEstoque\\Form1.cs [Design]",
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDeEstoque\\Database\\Database.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\Database\\Database.cs",
+              "RelativeToolTip": "GerenciamentoDeEstoque\\Database\\Database.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwNYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T02:37:11.009Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-08T14:09:11.291Z",
+              "EditorCaption": ""
             }
           ]
         }
