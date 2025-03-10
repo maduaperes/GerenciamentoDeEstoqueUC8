@@ -45,26 +45,11 @@
     <Reference Include="SQLitePCLRaw.core, Version=2.1.10.2445, Culture=neutral, PublicKeyToken=1488e028ca7ab535, processorArchitecture=MSIL">
       <HintPath>..\packages\SQLitePCLRaw.core.2.1.10\lib\netstandard2.0\SQLitePCLRaw.core.dll</HintPath>
     </Reference>
-    <Reference Include="SQLitePCLRaw.provider.dynamic_cdecl, Version=2.1.10.2445, Culture=neutral, PublicKeyToken=b68184102cba0b3b, processorArchitecture=MSIL">
-      <HintPath>..\packages\SQLitePCLRaw.provider.dynamic_cdecl.2.1.10\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
-    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
-    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
     <Reference Include="System.Management" />
-    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
-    </Reference>
     <Reference Include="System.Numerics" />
-    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
-    </Reference>
     <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -89,47 +74,11 @@
     <Compile Include="FormUltimoPedido.Designer.cs">
       <DependentUpon>FormUltimoPedido.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormFuncionarios.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormFuncionarios.Designer.cs">
-      <DependentUpon>FormFuncionarios.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormAddProdutos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormAddProdutos.Designer.cs">
-      <DependentUpon>FormAddProdutos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormAddPedidos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormAddPedidos.Designer.cs">
-      <DependentUpon>FormAddPedidos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormProdutos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormProdutos.Designer.cs">
-      <DependentUpon>FormProdutos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormPedidos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormPedidos.Designer.cs">
-      <DependentUpon>FormPedidos.cs</DependentUpon>
-    </Compile>
     <Compile Include="HomeVendedor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="HomeVendedor.Designer.cs">
       <DependentUpon>HomeVendedor.cs</DependentUpon>
-    </Compile>
-    <Compile Include="HomeAdm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="HomeAdm.Designer.cs">
-      <DependentUpon>HomeAdm.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -142,67 +91,15 @@
     <EmbeddedResource Include="Cadastro.resx">
       <DependentUpon>Cadastro.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormUltimoPedido.resx">
-      <DependentUpon>FormUltimoPedido.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormFuncionarios.resx">
-      <DependentUpon>FormFuncionarios.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormAddProdutos.resx">
-      <DependentUpon>FormAddProdutos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormAddPedidos.resx">
-      <DependentUpon>FormAddPedidos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormPedidos.resx">
-      <DependentUpon>FormPedidos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormProdutos.resx">
-      <DependentUpon>FormProdutos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="HomeAdm.resx">
-      <DependentUpon>HomeAdm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="HomeVendedor.resx">
-      <DependentUpon>HomeVendedor.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
-    <None Include="packages.config" />
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="img\escudo-com-fechadura-50.png" />
-    <Content Include="img\iconCadeadoEcd.png" />
-    <Content Include="img\iconCaixa.png" />
     <Content Include="img\iconCaixaHome.png" />
-    <Content Include="img\iconCaixas.png" />
-    <Content Include="img\iconUsuario24.png" />
-    <Content Include="img\olho-24.png" />
-    <None Include="Resources\iconCaixaHome.png" />
-    <None Include="img\iconPrincipal.png" />
     <Content Include="img\usuário-60.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
